@@ -1,0 +1,11 @@
+{
+  "name": "chat-with-sockets",
+  "version": "1.0.0",
+  "description": "Client side of a simple chat with sockets",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "devDpendencies": {
+    "snowpack": "^3.8.8"
+  }
+}
